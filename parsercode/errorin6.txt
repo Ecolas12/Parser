@@ -1,0 +1,5 @@
+/*begin must be followed by end*/
+const x = 7, y = 6;
+var a,b,c;
+begin
+a := y * 2;.

@@ -1,0 +1,13 @@
+/*while must be followed by do*/
+const a = 2, b = 3;
+var x, y, z;
+begin
+if y <> x then
+write y;
+xor odd y + z then
+z := y;
+else
+y := z;
+while z < 3 
+z := z + 1;
+end.

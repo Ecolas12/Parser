@@ -1,0 +1,6 @@
+/*only variable values may be altered*/
+const z=5;
+var x, y;
+begin
+z:= y * 2;
+end.

@@ -1,0 +1,7 @@
+
+/*Program must end with period*/
+var x, y;
+begin
+x := y * 2;
+end
+

@@ -1,0 +1,5 @@
+/*undeclared identifier*/
+var x, y;
+begin
+z:= y * 2;
+end.

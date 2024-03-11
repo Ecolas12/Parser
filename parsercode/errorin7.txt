@@ -1,0 +1,6 @@
+/*constant and variable declarations must be followed by a semicolon*/
+const z=5
+var x, y;
+begin
+z:= y * 2;
+end.

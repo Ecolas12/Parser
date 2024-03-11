@@ -1,0 +1,5 @@
+/*constants must be assigned with =*/
+constant x, y;
+begin
+x := y * 2;
+end

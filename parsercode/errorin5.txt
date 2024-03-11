@@ -1,0 +1,5 @@
+/*constants must be assigned an integer value*/
+constant x = 7, y = x;
+begin
+x := y * 2;
+end
